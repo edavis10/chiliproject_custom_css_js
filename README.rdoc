@@ -1,0 +1,7 @@
+= Custom CSS and JavaScript
+
+This plugin adds custom CSS and JavaScript to your ChiliProject.
+
+Login as an administratior, browse to the admin panel, and this plugin's configuration panel. You will see two fields where you can enter any CSS and JavaScript that will appear on every page.
+
+NOTE: The CSS and JavaScript is not escaped, santized, or modified in any way. What you type in will be output to the page directly.

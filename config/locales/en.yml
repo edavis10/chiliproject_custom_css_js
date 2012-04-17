@@ -1,0 +1,5 @@
+en:
+  custom_css_js_plugin_text_settings: 'Design customizations'
+  custom_css_js_plugin_settings_help: 'Add your custom CSS and Javascript here. These will be applied directly to every page, so be careful with them.'
+  custom_css_js_plugin_custom_css_label: 'Custom CSS'
+  custom_css_js_plugin_custom_javascript_label: 'Custom Javascript'
