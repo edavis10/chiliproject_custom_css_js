@@ -17,3 +17,4 @@ Redmine::Plugin.register :chiliproject_custom_css_js do
                'custom_javascript' => ''
              }})
 end
+require 'chiliproject_custom_css_js/hooks/view_layouts_base_html_head_hook'
