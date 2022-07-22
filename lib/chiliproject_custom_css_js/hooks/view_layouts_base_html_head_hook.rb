@@ -9,7 +9,7 @@ module ChiliprojectCustomCssJs
           js = Setting.plugin_chiliproject_custom_css_js["custom_javascript"]
 
           if css.present?
-            content += content_tag(:style, css, :type => 'text/css')
+            content += content_tag(:style, css.html_safe, :type => 'text/css')
           end
 
           if js.present?
